@@ -1,0 +1,20 @@
+fastapi
+
+python -m venv ./venv-fastapi
+
+source .venv-fastapi/bin/activate
+
+
+pip freeze > requirements.txt
+
+
+
+How to connect fastapi with database
+
+what are migrations, why do we need them
+
+how to manage migrations in fastapi
+
+what is alembic
+
+alembic commands and how to manage migrations using alembic
